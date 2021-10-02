@@ -3,8 +3,8 @@
 # Bank-Database : Oracle 
 
 This project was developed along with my team-mates: 
-1. Rohan Thakur (TCS) and 
-2. Rishanh Jain (ex-TCS)
+1. Rohan Thakur (ex-TCS) and 
+2. Rishabh Jain (ex-TCS)
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
